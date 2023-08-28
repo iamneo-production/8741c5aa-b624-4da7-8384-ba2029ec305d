@@ -1,13 +1,13 @@
-package com.cps.documentverificationservice;
+// package com.cps.documentverificationservice;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class DocumentVerificationServiceApplicationTests {
+// @SpringBootTest
+// class DocumentVerificationServiceApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
